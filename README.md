@@ -39,6 +39,8 @@
 
 ## リンク
 
+<a href="https://palette-system.booth.pm/items/6718231">BOOTH AZPOCKET 販売ページ</a><br><br>
+
 <a href="/docs/buildguide/README.md">ビルドガイド</a><br><br>
 
 <a href="https://palette-system.github.io/az-core/azpocket.html">ファームウェアの書き込みページ</a><br><br>
