@@ -5,8 +5,7 @@
 | 名前 | 詳細 | 個数 |
 | --- | --- | --- |
 | XIAO ESP32C6 | <a href="https://akizukidenshi.com/catalog/g/g129481/" target="_blank">秋月電子リンク</a> | 1 |
-| バッテリー | DTP401525(PHR) 110mAh<br>
-リチウムイオンポリマー電池 3.7V 110mAh<br> <a href="https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-53KN" target="_blank">千石電商リンク</a> | 1 |
+| バッテリー | DTP401525(PHR) 110mAh<br>リチウムイオンポリマー電池 3.7V 110mAh<br> <a href="https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-53KN" target="_blank">千石電商リンク</a> | 1 |
 | 木工用ボンド | コクヨ KOKUYO ボンド 木工用速乾<br><a href="https://www.yodobashi.com/product/100000001001555306/" target="_blank">ヨドバシカメラリンク</a> | 1 |
 
 <br><br>
@@ -49,6 +48,7 @@
 <br>
 スイッチをPCBに差し込んでPCBとの隙間が無いように4つ角をはんだ付けして下さい。<br>
 裏面ははんだの量を少なめにはんだ付けして下さい。量が多いとスイッチの接触不良につながります。<br>
+
 ![pic](/docs/img/make_06.jpg)
 ![pic](/docs/img/make_09.jpg)
 ![pic](/docs/img/make_16.jpg)
